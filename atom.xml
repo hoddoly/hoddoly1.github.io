@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hoddoly1.github.io</id>
+    <id>https://hoddoly.coding.me</id>
     <title>Gridea</title>
-    <updated>2020-01-02T07:28:57.439Z</updated>
+    <updated>2020-01-02T07:33:52.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hoddoly1.github.io"/>
-    <link rel="self" href="https://hoddoly1.github.io/atom.xml"/>
+    <link rel="alternate" href="https://hoddoly.coding.me"/>
+    <link rel="self" href="https://hoddoly.coding.me/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://hoddoly1.github.io/images/avatar.png</logo>
-    <icon>https://hoddoly1.github.io/favicon.ico</icon>
+    <logo>https://hoddoly.coding.me/images/avatar.png</logo>
+    <icon>https://hoddoly.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hoddoly1.github.io/post/hello-gridea</id>
-        <link href="https://hoddoly1.github.io/post/hello-gridea">
+        <id>https://hoddoly.coding.me/post/hello-gridea</id>
+        <link href="https://hoddoly.coding.me/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
